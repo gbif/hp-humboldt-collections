@@ -10,8 +10,8 @@ cta:
   - text: Specimens
     href: /occurrence/search
     isPrimary: true
-  - text: Datasets
-    href: /dataset/search
+  - text: Collections
+    href: /collection/search
   - text: About
     href: /about
 composition:
