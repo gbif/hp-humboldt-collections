@@ -45,7 +45,6 @@ var siteConfig = {
     "disableInlineTableFilterButtons": false,
     "availableCatalogues": [
         "OCCURRENCE",
-        "DATASET",
         "COLLECTION",
         "LITERATURE"
     ],
