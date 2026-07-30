@@ -1,5 +1,5 @@
 ---
-permalink: acercade
+permalink: /es/acercade
 lang-ref: acercade
 title: acercade
 description: Generando conocimiento sobre la biodiversidad colombiana a través de la recolección, preservación y estudio de especímenes para su conservación y uso sostenible

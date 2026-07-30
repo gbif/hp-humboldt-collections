@@ -6,11 +6,11 @@
 #   href: /occurrence/search
 - text: Data
   menu: 
-  - text: Specimens
+  - text: Registros
     href: /occurrence/search
   - text: Datasets
     href: /dataset/search
-  - text: Collections
+  - text: Colecciones
     href: /collection/search
   - text: Literature
     href: /literature/search
