@@ -40,38 +40,38 @@
   href: /
 - text: Colecciones
   menu: 
-  - text: Vertebrados
     submenu:
-      - text: Aves
-        href: /coleccion/aves
-      - text: Mamiferos
-        href: /coleccion/mamiferos
-      - text: Reptiles    
-        href: /coleccion/reptiles
-      - text: Anfibios
-        href: /coleccion/anfibios
-      - text: Peces
-        href: /coleccion/peces
-      - text: Huevos
-        href: /coleccion/huevos
+    - text: Vertebrados
+    - text: Aves
+      href: /coleccion/aves
+    - text: Mamiferos
+      href: /coleccion/mamiferos
+    - text: Reptiles    
+      href: /coleccion/reptiles
+    - text: Anfibios
+      href: /coleccion/anfibios
+    - text: Peces
+      href: /coleccion/peces
+    - text: Huevos
+      href: /coleccion/huevos
   - text: Invertebrados
     submenu:
-    - text: Entomología
-      href: /collection/search?taxonKey=54
+    - text: Entomologia
+      href: /coleccion/entomogia
     - text: Invertebrados
-      href: /collection/search?taxonKey=0
+      href: /coleccion/invertebrados
   - text: Plantas
     menu:
     - text: Herbario
-      href: /collection/search?taxonKey=6
+      href: /coleccion/herbario
     - text: Semillas
-      href: /collection/search?taxonKey=0
+      href: /coleccion/semillas
   - text: Multitaxa
     submenu:
     - text: Sonidos
-      href: /collection/search?taxonKey=0
+      href: /coleccion/sonidos
     - text: Tejidos
-      href: /collection/search?taxonKey=0
+      href: /coleccion/tejidos
 - text: servicios
   menu:
     - text: Solicitudes
