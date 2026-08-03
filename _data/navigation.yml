@@ -36,24 +36,24 @@
 #    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
 #- text: News
 #  href: /news/
-- text: home
+- text: Inicio
   href: /
 - text: Colecciones
   menu: 
   - text: Vertebrados
     submenu:
     - text: Aves
-      href: /collection/search?taxonKey=212
-    - text: Mamíferos
-      href: /collection/search?taxonKey=359
+      href: /coleccion/aves
+    - text: Mamiferos
+      href: /coleccion/mamiferos
     - text: Reptiles    
-      href: /collection/search?taxonKey=358
+      href: /coleccion/reptiles
     - text: Anfibios
-      href: /collection/search?taxonKey=360
+      href: /coleccion/anfibios
     - text: Peces
-      href: /collection/search?taxonKey=359
-    - text: Hueveos
-      href: /collection/search?taxonKey=0
+      href: /coleccion/peces
+    - text: Huevos
+      href: /coleccion/huevos
   - text: Invertebrados
     submenu:
     - text: Entomología
