@@ -34,14 +34,14 @@
 #    href: https://guides.github.com/features/mastering-markdown/
 #  - text: YAML tutorial
 #    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-#- text: News
+#- text: Newshola Mafe, por este lado ya quedo la descripción de los cursos, me cuentas si lo mejoramros o cualquer cosa adicional
 #  href: /news/
 - text: Inicio
   href: /
 - text: Colecciones
   menu: 
   - text: Vertebrados
-    children:
+    submenu:
     - text: Aves
       href: /coleccion/aves
     - text: Mamiferos
@@ -61,7 +61,7 @@
     - text: Invertebrados
       href: /coleccion/invertebrados
   - text: Plantas
-    menu:
+    submenu:
     - text: Herbario
       href: /coleccion/herbario
     - text: Semillas
@@ -84,11 +84,11 @@
         href: /collection/request
       - text: Transferencias de Material
         href: /collection/request
-- text: visitas
-  submenu:
-    - text: Científicas
-      href: /collection/visit
-    - text: Educativas Universitarias
-      href: /collection/visit
-    - text: Educativas escolares y publicos
-      href: /collection/visit
+    - text: visitas
+      submenu:
+      - text: Científicas
+        href: /collection/visit
+      - text: Educativas Universitarias
+        href: /collection/visit
+      - text: Educativas escolares y publicos
+        href: /collection/visit
