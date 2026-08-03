@@ -42,18 +42,18 @@
   menu: 
   - text: Vertebrados
     submenu:
-    - text: Aves
-      href: /coleccion/aves
-    - text: Mamiferos
-      href: /coleccion/mamiferos
-    - text: Reptiles    
-      href: /coleccion/reptiles
-    - text: Anfibios
-      href: /coleccion/anfibios
-    - text: Peces
-      href: /coleccion/peces
-    - text: Huevos
-      href: /coleccion/huevos
+      - text: Aves
+        href: /coleccion/aves
+      - text: Mamiferos
+        href: /coleccion/mamiferos
+      - text: Reptiles    
+        href: /coleccion/reptiles
+      - text: Anfibios
+        href: /coleccion/anfibios
+      - text: Peces
+        href: /coleccion/peces
+      - text: Huevos
+        href: /coleccion/huevos
   - text: Invertebrados
     submenu:
     - text: Entomología
