@@ -41,7 +41,7 @@
 - text: Colecciones
   menu: 
   - text: Vertebrados
-    menu:
+    submenu:
     - text: Aves
       href: /collection/search?taxonKey=212
     - text: Mamíferos
@@ -55,7 +55,7 @@
     - text: Hueveos
       href: /collection/search?taxonKey=0
   - text: Invertebrados
-    menu:
+    submenu:
     - text: Entomología
       href: /collection/search?taxonKey=54
     - text: Invertebrados
@@ -67,7 +67,7 @@
     - text: Semillas
       href: /collection/search?taxonKey=0
   - text: Multitaxa
-    menu:
+    submenu:
     - text: Sonidos
       href: /collection/search?taxonKey=0
     - text: Tejidos
@@ -75,7 +75,7 @@
 - text: servicios
   menu:
     - text: Solicitudes
-      menu:
+      submenu:
       - text: Depositos
         href: /collection/request
       - text: Préstamos
@@ -85,7 +85,7 @@
       - text: Transferencias de Material
         href: /collection/request
 - text: visitas
-  menu:
+  submenu:
     - text: Científicas
       href: /collection/visit
     - text: Educativas Universitarias
