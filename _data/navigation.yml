@@ -1,38 +1,94 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: Acerca de
-  href: /about
+#- text: Acerca de
+#  href: /about
 # - text: Occurrences
 #   href: /occurrence/search
-- text: Datos
+#- text: Datos
+#  menu: 
+#  - text: occurrences
+#    href: /occurrence/search
+#  - text: Conjuntos de datos
+#    href: /dataset/search
+#  - text: collections
+#    href: /collection/search
+#  - text: Literature
+#    href: /literature/search
+#- text: Example pages
+#  menu: # Dropdown menu (one level deep only)
+#  - text: Simple
+#    href: /example-pages/simple
+#  - text: Complex
+#    href: /example-pages/complex
+#- text: Links
+#  menu: # Dropdown menu (one level deep only)
+#  - text: Base theme demo
+#    href: https://hp-base-theme.gbif-staging.org/
+#  - text: Other sites using the theme
+#    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
+#  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
+#  - text: "Docs" # Title for block of menu items
+#  - text: Jekyll documentation
+#    href: https://jekyllrb.com/docs/pages/
+#  - text: Markdown tutorial
+#    href: https://guides.github.com/features/mastering-markdown/
+#  - text: YAML tutorial
+#    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
+#- text: News
+#  href: /news/
+- text: home
+  href: /
+- text: Colecciones
   menu: 
-  - text: occurrences
-    href: /occurrence/search
-  - text: Conjuntos de datos
-    href: /dataset/search
-  - text: collections
-    href: /collection/search
-  - text: Literature
-    href: /literature/search
-- text: Example pages
-  menu: # Dropdown menu (one level deep only)
-  - text: Simple
-    href: /example-pages/simple
-  - text: Complex
-    href: /example-pages/complex
-- text: Links
-  menu: # Dropdown menu (one level deep only)
-  - text: Base theme demo
-    href: https://hp-base-theme.gbif-staging.org/
-  - text: Other sites using the theme
-    href: https://github.com/gbif/?q=hp-&type=all&language=&sort=
-  - text: "---" # Divider to separate blocks of menu items (at least 3 "-")
-  - text: "Docs" # Title for block of menu items
-  - text: Jekyll documentation
-    href: https://jekyllrb.com/docs/pages/
-  - text: Markdown tutorial
-    href: https://guides.github.com/features/mastering-markdown/
-  - text: YAML tutorial
-    href: https://dev.to/paulasantamaria/introduction-to-yaml-125f
-- text: News
-  href: /news/
+  - text: Vertebrados
+    menu:
+    - text: Aves
+      href: /collection/search?taxonKey=212
+    - text: Mamíferos
+      href: /collection/search?taxonKey=359
+    - text: Reptiles    
+      href: /collection/search?taxonKey=358
+    - text: Anfibios
+      href: /collection/search?taxonKey=360
+    - text: Peces
+      href: /collection/search?taxonKey=359
+    - text: Hueveos
+      href: /collection/search?taxonKey=0
+  - text: Invertebrados
+    menu:
+    - text: Entomología
+      href: /collection/search?taxonKey=54
+    - text: Invertebrados
+      href: /collection/search?taxonKey=0
+  - text: Plantas
+    menu:
+    - text: Herbario
+      href: /collection/search?taxonKey=6
+    - text: Semillas
+      href: /collection/search?taxonKey=0
+  - text: Multitaxa
+    menu:
+    - text: Sonidos
+      href: /collection/search?taxonKey=0
+    - text: Tejidos
+      href: /collection/search?taxonKey=0
+- text: servicios
+  menu:
+    - text: Solicitudes
+      menu:
+      - text: Depositos
+        href: /collection/request
+      - text: Préstamos
+        href: /collection/request
+      - text: Intercambios
+        href: /collection/request
+      - text: Transferencias de Material
+        href: /collection/request
+- text: visitas
+  menu:
+    - text: Científicas
+      href: /collection/visit
+    - text: Educativas Universitarias
+      href: /collection/visit
+    - text: Educativas escolares y publicos
+      href: /collection/visit
