@@ -40,8 +40,8 @@
   href: /
 - text: Colecciones
   menu: 
-    submenu:
-    - text: Vertebrados
+  - text: Vertebrados
+    children:
     - text: Aves
       href: /coleccion/aves
     - text: Mamiferos
