@@ -1,16 +1,16 @@
 # Links listed below will be included in your site's navbar (navigation at the top)
 
-- text: About
+- text: Acerca de
   href: /about
 # - text: Occurrences
 #   href: /occurrence/search
-- text: Data
+- text: Datos
   menu: 
-  - text: Registros
+  - text: occurrences
     href: /occurrence/search
-  - text: Datasets
+  - text: Conjuntos de datos
     href: /dataset/search
-  - text: Colecciones
+  - text: collections
     href: /collection/search
   - text: Literature
     href: /literature/search

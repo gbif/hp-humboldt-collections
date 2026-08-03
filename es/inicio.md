@@ -1,18 +1,18 @@
 ---
-lang-ref: home
-layout: home
-title: Humboldt Collections
-description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat.
+lang-ref: inicio
+layout: inicio
+title: Colecciones Humboldt
+description: Generando conocimiento sobre la biodiversidad colombiana a través de la recolección, preservación y estudio de especímenes para su conservación y uso sostenible.
 background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
 imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"
 height: 90vh
 cta:
-  - text: Specimens
+  - text: Registros
     href: /occurrence/search
     isPrimary: true
-  - text: Collections
+  - text: Colecciones
     href: /collection/search
-  - text: About
+  - text: Acerca de
     href: /about
 composition:
   - type: heroImage # the block type
