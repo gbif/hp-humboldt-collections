@@ -1,6 +1,6 @@
 ---
-lang-ref: home
-layout: home
+lang-ref: inicio
+layout: incio
 title: Colecciones Humboldt
 description: Generando conocimiento sobre la biodiversidad colombiana a través de la recolección, preservación y estudio de especímenes para su conservación y uso sostenible. Español
 background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
