@@ -22,7 +22,7 @@ composition:
     data: examples.herbariumImageExample
   - type: features
     data: examples.couldBeAnyName
-permalink: /
+permalink: /en/
 ---
 
 Edit `/home.md` to change the text.
