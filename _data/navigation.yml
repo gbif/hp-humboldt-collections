@@ -38,57 +38,53 @@
 #  href: /news/
 - text: Inicio
   href: /en/
-- text: Colecciones
+- text: Vertebrados
   menu: 
-  - text: Vertebrados
-    submenu:
-    - text: Aves
-      href: /coleccion/aves
-    - text: Mamiferos
-      href: /coleccion/mamiferos
-    - text: Reptiles    
-      href: /coleccion/reptiles
-    - text: Anfibios
-      href: /coleccion/anfibios
-    - text: Peces
-      href: /coleccion/peces
-    - text: Huevos
-      href: /coleccion/huevos
+  - text: Aves
+    href: /coleccion/aves
+  - text: Mamiferos
+    href: /coleccion/mamiferos
+  - text: Reptiles    
+    href: /coleccion/reptiles
+  - text: Anfibios
+    href: /coleccion/anfibios
+  - text: Peces
+    href: /coleccion/peces
+  - text: Huevos
+    href: /coleccion/huevos
+- text: Invertebrados
+  menu:
+  - text: Entomologia
+    href: /coleccion/entomogia
   - text: Invertebrados
-    submenu:
-    - text: Entomologia
-      href: /coleccion/entomogia
-    - text: Invertebrados
-      href: /coleccion/invertebrados
-  - text: Plantas
-    submenu:
-    - text: Herbario
-      href: /coleccion/herbario
-    - text: Semillas
-      href: /coleccion/semillas
-  - text: Multitaxa
-    submenu:
-    - text: Sonidos
-      href: /coleccion/sonidos
-    - text: Tejidos
-      href: /coleccion/tejidos
+    href: /coleccion/invertebrados
+- text: Plantas
+  menu:
+  - text: Herbario
+    href: /coleccion/herbario
+  - text: Semillas
+    href: /coleccion/semillas
+- text: Multitaxa
+  menu:
+  - text: Sonidos
+    href: /coleccion/sonidos
+  - text: Tejidos
+    href: /coleccion/tejidos
 - text: servicios
   menu:
-    - text: Solicitudes
-      submenu:
-      - text: Depositos
-        href: /collection/request
-      - text: Préstamos
-        href: /collection/request
-      - text: Intercambios
-        href: /collection/request
-      - text: Transferencias de Material
-        href: /collection/request
-    - text: visitas
-      submenu:
-      - text: Científicas
-        href: /collection/visit
-      - text: Educativas Universitarias
-        href: /collection/visit
-      - text: Educativas escolares y publicos
-        href: /collection/visit
+    - text: Depositos
+      href: /collection/request
+    - text: Préstamos
+      href: /collection/request
+    - text: Intercambios
+      href: /collection/request
+    - text: Transferencias de Material
+      href: /collection/request
+- text: visitas
+  menu:
+  - text: Científicas
+    href: /collection/visit
+  - text: Educativas Universitarias
+    href: /collection/visit
+  - text: Educativas escolares y publicos
+    href: /collection/visit
